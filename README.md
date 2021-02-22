@@ -4,3 +4,4 @@ make 変更
 no-fast-forward で変更
 さらにconflict発生
 update at web
+conflict-remote上で更新
